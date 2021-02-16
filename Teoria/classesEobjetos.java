@@ -6,4 +6,5 @@
 //  Ponta Real  #atributo3
 //  Carga  Inteiro #atributo4
 // Tampa Logico    #atributo5
-// Metodo rabiscar()# Método é o que faz o objeto, entre parenteses estará os parâmetros (O QUE FAZ O OBJETO)
+// Metodo rabiscar()# Método é o que faz o objeto, entre parenteses estará os parâmetros (O QUE FAZ O OBJETO).
+
