@@ -1,4 +1,4 @@
-/**
+ /**
  * 
  */
 package inicial;
@@ -45,12 +45,15 @@ public class Capitulo2 {
 		sum = num1 + num2;
 		
 		System.out.printf("Soma é %d%n", sum);
-		/**
-		 * éssa é uma aplicação que recebe dois números inteiros
+		/** 11
+		 * essa é uma aplicação que recebe dois números inteiros
 		 * nas variaveis num1 e num2, depois realiza a soma dos numeros recebidos
 		 * e a transforma na variavel sum depois o sistema imprime o resultado "sum"
 		 *
 		 */
+		//questão 12 não funciona aparece seguintes mensagens:
+		//Scanner cannot be resolved to a type
+		//Scanner cannot be resolved to a type
 		
 
 	}
