@@ -25,23 +25,23 @@ public class Figura2_14 {
 		System.out.print("Digite o segundo número");
 		num2 = input.nextInt();
 		
-		if (number1 == number2)
-			System.out.printf("%d == %d%n", number1, number2);
+		if (num1 == num2)
+			System.out.printf("%d == %d%n", num1, num2);
 		
-		if (number1 != number2)
-			System.out.printf("%d != %d%n", number1, number2);
+		if (num1 != num2)
+			System.out.printf("%d != %d%n", num1, num2);
 		
-		if (number1 < number2)
-			System.out.printf("%d < %d%n", number1, number2);
+		if (num1 < num2)
+			System.out.printf("%d < %d%n", num1, num2);
 		
-		if (number1 > number2)
-			System.out.printf("%d > %d%n", number1, number2);
+		if (num1 > num2)
+			System.out.printf("%d > %d%n", num1, num2);
 		
-		if (number1 <= number2)
-			System.out.printf("%d <= %d%n", number1, number2);
+		if (num1 <= num2)
+			System.out.printf("%d <= %d%n", num1, num2);
 		
-		if (number1 >= number2)
-			System.out.printf("%d >= %d%n", number1, number2);
+		if (num1 >= num2)
+			System.out.printf("%d >= %d%n", num1, num2);
 		// TODO Auto-generated method stub
 
 	}
