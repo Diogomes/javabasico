@@ -43,8 +43,8 @@ public class Capitulo2 {
 		System.out.print("Digite o Segundo Número: ");
 		num2 = input.nextInt();
 		sum = num1 + num2;
-		
-		System.out.printf("Soma é %d%n", sum);
+		//respostga da 13 e 14
+		System.out.printf("Soma de %d%n e %d%n é = %d%n funciona esse treco!",num1, num2, sum);
 		/** 11
 		 * essa é uma aplicação que recebe dois números inteiros
 		 * nas variaveis num1 e num2, depois realiza a soma dos numeros recebidos
