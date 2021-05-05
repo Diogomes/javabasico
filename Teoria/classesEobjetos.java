@@ -39,3 +39,16 @@
 
 //classic.potencia =3;
 //float v = classic.velocidade;
+
+//Os métodos definem o comportamento da classe
+
+//Exemplo:
+
+//public class Carro{
+    //void acelerar(){
+        //velocidade += potencia;
+    //}
+    //void frear(){
+        //velocidade +=0.5;
+    //}
+//}
